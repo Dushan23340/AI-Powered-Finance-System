@@ -28,19 +28,6 @@ Maintain high standards of security and data privacy
 
 🚀 Getting Started
 To run the project locally:
-# Clone the repo
-git clone https://github.com/your-username/ai-finance-system.git
-
-# Install backend dependencies
-cd backend
-npm install
-
-# Install frontend dependencies
-cd ../frontend
-npm install
-
-# Start both servers
-npm run dev
 
 Make sure to configure your .env file with the appropriate environment variables (MongoDB URI, JWT secret, etc.).
 
